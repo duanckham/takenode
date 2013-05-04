@@ -1,4 +1,1 @@
-takenode
-========
-
-Demo: http://www.tiaop.net/
+一个基于GAE的图床，支持多节点存储和基本的图形操作。
